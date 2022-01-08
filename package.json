@@ -2,12 +2,13 @@
   "dependencies": {
     "expo": "^44.0.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1",
+    "react-dom": "^17.0.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "0.17.1"
+    "react-native-web": "^0.17.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "babel-plugin-react-native-web": "^0.17.5"
   },
   "scripts": {
     "start": "expo start",
